@@ -1,6 +1,6 @@
 # Considerate endermen
-Tiny minecraft mod. See details below:
+Tiny minecraft mod. 
 
-[modrinth page](https://modrinth.com/mod/considerate-endermen)
+Prevents endermen from making holes in terrain while still allowing them to take blocks they like.
 
-[curseforge page](https://legacy.curseforge.com/minecraft/mc-mods/considerate-endermen)
+See details on [modrinth page](https://modrinth.com/mod/considerate-endermen)  or  [curseforge page](https://legacy.curseforge.com/minecraft/mc-mods/considerate-endermen) ...
