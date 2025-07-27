@@ -80,9 +80,4 @@ public class EndermanDecisionManager
     // other parts of target class: there is ** canUse ** method in the same class.
     // if enderman has nothing in hands and mob griefing is allowed, it rolls a random with 10% chance.
     // we won't change that for now.  maybe after experiencing real live gameplay.
-
-    @Shadow
-    private EnderMan enderman;
-
-    // private static final Logger LOGGER2 = LogUtils.getLogger();
 }
