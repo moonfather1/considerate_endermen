@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "considerate-endermen",
+	"version": "${version}",
+	"name": "Considerate endermen",
+	"description": "Prevents endermen from making holes in terrain while still allowing them to take blocks they like.",
+	"authors": [ "MoonFather" ],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/considerate-endermen",
+		"sources": "https://github.com/moonfather1/considerate_endermen"
+	},
+	"license": "MIT",
+	"icon": "assets/considerate-endermen/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"moonfather.endermen.ConsiderateEndermen"
+		]
+	},
+	"mixins": [
+		"considerate-endermen.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": ">=1.21.1",
+		"java": ">=21"
+	}
+}
