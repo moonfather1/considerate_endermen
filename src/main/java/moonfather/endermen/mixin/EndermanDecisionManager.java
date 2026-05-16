@@ -61,7 +61,7 @@ public class EndermanDecisionManager
 		}
 		// no clearance on sides? cancel the rest of tick method
 		ci.cancel();
-		System.out.println("~~~~blocked");
+		//System.out.println("~~~~blocked");
 		return result;
 	}
 
