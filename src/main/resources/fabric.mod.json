@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "through-the-lilypads-gently",
+	"id": "considerate-endermen",
 	"version": "${version}",
 	"name": "Considerate endermen",
 	"description": "Prevents endermen from making holes in terrain while still allowing them to take blocks they like.",
